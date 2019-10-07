@@ -1,0 +1,25 @@
+.editor-controls {
+}
+
+.editor-inlineStyleControls {
+    margin-bottom: 1em;
+}
+
+.editor-blockStyleControls {
+    margin-bottom: 1em;
+}
+
+.editor-styleButton {
+    background-color: lightblue;
+    margin: 15px 15px;
+    border: 1px solid navajowhite;
+    padding: 3px 3px;
+}
+
+.editor-styleButton:hover {
+    cursor: pointer;
+}
+
+.editor-activeStyleButton {
+    background-color: navajowhite;
+}

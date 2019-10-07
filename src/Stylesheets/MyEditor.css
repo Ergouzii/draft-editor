@@ -1,0 +1,15 @@
+.editor-container {
+    border: 2px solid cadetblue;
+    width: 80%;
+    height: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.editor-blockquote {
+    color: #999;
+    font-family: 'Hoefler Text', Georgia, serif;
+    font-style: italic;
+    text-align: center;
+}
